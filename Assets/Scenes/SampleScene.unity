@@ -155,7 +155,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SmoothMoving: 4
-  yOffset: 1000
+  yOffset: 200
 --- !u!212 &505985092
 SpriteRenderer:
   m_ObjectHideFlags: 0
